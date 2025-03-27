@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="-sm-6">
-             <img src="img/SPANIX.png" alt="responsive logo" class="rounded">   
+             <img src="img/D.png" alt="responsive logo" class="rounded">   
             </div>
     
     
